@@ -1,0 +1,35 @@
+.first{
+  background-color: yellow;
+  border: 10px solid white;
+  padding: 2%;
+}
+
+.second {
+  background-color: greenyellow;
+  border: 10px solid white;
+  padding: 2%;
+}
+
+.tercero {
+  background-color: aquamarine;
+  border: 10px solid white;
+  padding: 2%;
+}
+
+.cuarto {
+  background-color: turquoise;
+  border: 10px solid white;
+  padding: 2%;
+}
+
+.quinto {
+  background-color: purple;
+  border: 10px solid white;
+  padding: 2%;
+}
+
+.sexto {
+  background-color: fuchsia;
+  border: 10px solid white;
+  padding: 2%;
+}
